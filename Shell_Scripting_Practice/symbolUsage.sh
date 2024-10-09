@@ -1,3 +1,4 @@
+# Demonstrate the use of $$,$0,$*,$@
 #!/bin/bash
 
 echo "Process ID (PID) of the script: $$"

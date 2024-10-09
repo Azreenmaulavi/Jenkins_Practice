@@ -1,3 +1,4 @@
+# .Write a shell script to illustrate the use of pipe command and change system date.
 #!/bin/bash
 
 # Illustrating the use of the pipe command

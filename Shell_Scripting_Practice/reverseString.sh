@@ -1,3 +1,5 @@
+# Write a shell to reverse a string
+
 #!/bin/bash
 
 # Prompt the user for input

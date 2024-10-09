@@ -1,3 +1,4 @@
+# Write a shell script to delete all text files from the directory
 #!/bin/bash
 
 # Confirm deletion with the user

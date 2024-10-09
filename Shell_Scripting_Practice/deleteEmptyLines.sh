@@ -1,3 +1,4 @@
+# Write a shell script to delete all empty lines from any file
 #!/bin/sh
 # Check if a file was provided as an argument
 if [ -z "$1" ]; then

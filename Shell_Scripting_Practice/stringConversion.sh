@@ -1,3 +1,4 @@
+# Write a shell script to change case of string
 #!/bin/sh
 
 

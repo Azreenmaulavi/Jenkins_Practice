@@ -1,3 +1,4 @@
+# Write a shell script to reverse array elements
 #!/bin/bash
 
 # Define the array

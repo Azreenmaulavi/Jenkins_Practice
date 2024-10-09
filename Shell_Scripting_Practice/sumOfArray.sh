@@ -1,3 +1,5 @@
+# Write a shell script to add elements of array
+
 #!/bin/sh
 
 # Initialize an array

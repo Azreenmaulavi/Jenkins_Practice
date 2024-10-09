@@ -1,3 +1,5 @@
+# Write a shell script to count the number words,lines,character from given file accept file name from commandline.
+
 #!/bin/bash
 
 # Check if a filename is provided
